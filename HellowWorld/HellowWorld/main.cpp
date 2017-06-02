@@ -7,5 +7,8 @@ int main()
 
 	cout << "こんにちは\n";
 
+	cout << "こんばんわ\n";
+
+
 	return 0;
 }
