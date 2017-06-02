@@ -6,5 +6,7 @@
 *.opendb
 *.sdf
 
+*.ipch
+
 Debug/
 Release/
